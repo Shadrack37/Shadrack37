@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shadrack Mwangi
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Udacity's Data Analyst's Nanodegree
+- 🌱 I’m currently learning Python for Financial Analysis and Algorithmic Trading
 - 💞️ I’m looking to collaborate on data cleaning, wrangling and analyzing
 - 📫 Reach me on wakiyu31@gmail.com
 
